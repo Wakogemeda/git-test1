@@ -1,4 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0mC:\Users\wakog\Desktop\yaa ana\src\main\scala\Bank.scala:123:107: not found: value item[0m
-[0m[[0m[31merror[0m] [0m[0m            .getTimeInMillis + ": Executing - update project0 set fullName = (" + str + ") where id =(" + item + ")\n"[0m
-[0m[[0m[31merror[0m] [0m[0m                                                                                                          ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
